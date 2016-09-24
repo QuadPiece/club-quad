@@ -53,8 +53,8 @@ div#tdcont .stable {
 .stable-body td div {
 	font-family: Open Sans !important;
 	font-size: 11px;
-	height: 21px !important;
-	line-height: 21px;
+	height: 18px !important;
+	line-height: 18px;
 }
 .stable-body tr.odd td {
     background: #222;
@@ -143,7 +143,7 @@ div.stable-body table tbody tr.even:hover:nth-child(2n+1) td {
 	font-weight: 400;
 	height: 0;
 	left: 40%;
-	line-height: 23px;
+	line-height: 18px;
 	overflow: visible;
 	position: relative;
 	text-align: left;
