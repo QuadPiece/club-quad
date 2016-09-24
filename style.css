@@ -624,7 +624,6 @@ ul#tabbar li a:hover {
 	border-color: #222;
 	border-width: 1px;
 	color: #fff;
-	text-shadow: 0 0 2px #ccc;
 	background: #333;
 }
 ul#tabbar li.selected a {
@@ -632,7 +631,6 @@ ul#tabbar li.selected a {
 	border: 1px solid #222;
 	color: #eee;
 	padding: 4px 6px 5px;
-	text-shadow: 0 0 4px #eee;
 	top: 0;
 }
 .tabbar li {
