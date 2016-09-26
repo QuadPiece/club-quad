@@ -962,6 +962,7 @@ div#t div {
 .Status_Completed {
 	background-position: 0 -193px !important;
 }
+
 .Status_Error_Up {
     background-position: 0 -141px !important;
 }
@@ -993,3 +994,8 @@ ul.CMenu li:hover ul {
 .meter-value-start-color { background-color: #96281B !important;}
 .meter-value-end-color { background-color: #1E824C !important;}
 ::-webkit-scrollbar {width:12px;height:12px;padding:0px;margin:0px;}
+
+/* SEARCH BAR ALIGNMENT FIX */
+#query, #exscategory {
+    margin-top: 0 !important;
+}
