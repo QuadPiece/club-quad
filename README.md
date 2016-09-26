@@ -1,6 +1,6 @@
 # club-quad
 
-club-quad is a continuation of the club-Swizards rutorrent theme. Swizards was hacked and shut down, after which the original repository seems to have been deleted. I decided to orphan the theme and fix some things.
+club-quad is a continuation of the club-Swizards rutorrent theme. Swizards was hacked and shut down, after which the original repository ([Swizards/club-Swizards](https://github.com/Swizards/club-Swizards)) seems to have been deleted. I decided to orphan the theme and fix some things.
 
 ## Install
 
@@ -13,6 +13,10 @@ Next, simply clone the club-quad theme into your themes folder and change the ow
 git clone https://github.com/QuadPiece/club-quad.git club-quad
 chown -R www-data: club-quad
 ```
+
+## Update
+
+`cd` into your themes directory again and run a `git pull`
 
 ![Sample screenshot](images/Screenshot.png)
 
