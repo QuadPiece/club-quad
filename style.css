@@ -122,8 +122,7 @@ ul.CMenu li a.dis:hover {
     color: #555;
 }
 ul.CMenu li hr {
-	background-color: #222;
-	border-bottom: 1px solid #222;
+	background-color: #313131;
 	border-width: 0 0 1px;
 	height: 1px;
 	margin: 0;
