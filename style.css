@@ -107,8 +107,8 @@ ul.CMenu li.menuitem:last-child {
     -webkit-border-bottom-right-radius: 5px;
 }
 ul.CMenu li a {
-	background: transparent url("./images/menus.png") no-repeat scroll 0 0;
-	color: #999;
+	background: #2a2a2a;
+	color: #ccc;
 	padding: 3px 4px 3px 21px;
 }
 ul.CMenu li a:hover {
@@ -144,7 +144,7 @@ ul.CMenu li ul li a.sel {
 }
 ul.CMenu li a:hover {
 	background-color: #222;
-	color: #ccc;
+	color: #fff;
 	font-family: Open Sans;
 }
 ul.CMenu li:hover ul li a {
