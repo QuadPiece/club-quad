@@ -512,13 +512,13 @@ div#FileList, div#TrackerList, div#PeerList, div#Speed {
 div#stg {
     background-color: #2a2a2a;
     box-shadow: 10px 10px 5px #111;
-  height: 425px;
+    height: 435px;
 }
 .lm li {
-	background: transparent url("./images/bul.gif") no-repeat scroll left center;
-	line-height: 20px !important;
-	margin: 0 5px;
-	padding: 0 10px;
+    background: transparent url("./images/bul.gif") no-repeat scroll left center;
+    line-height: 20px !important;
+    margin: 0 5px;
+    padding: 0 10px;
 }
 .lm li.first {
     background: transparent url(./images/bul_f.gif) no-repeat scroll left bottom
@@ -538,7 +538,7 @@ div#stg {
 }
 .stg_con {
 	background-color: #2a2a2a;
-	height: 350px;
+	height: 370px;
 	overflow: hidden;
 }
 #st_btns {
