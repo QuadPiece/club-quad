@@ -49,6 +49,7 @@ div#tdcont .stable {
 }
 .stable-body td {
     border-bottom: 1px solid #2a2a2a;
+    vertical-align: middle;
 }
 .stable-body td div {
 	font-family: Open Sans !important;
