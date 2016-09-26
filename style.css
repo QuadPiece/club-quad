@@ -143,25 +143,22 @@ ul.CMenu li ul li a.sel {
     color: #178FD1
 }
 ul.CMenu li a:hover {
-	background-color: #222;
 	color: #fff;
 	font-family: Open Sans;
 }
 ul.CMenu li:hover ul li a {
-    background-color: #111;
-    color: #666666
+    background-color: #2a2a2a;
+    color: #ccc;
 }
 ul.CMenu li:hover ul li a:hover {
-	background-color: #222;
-	color: #ccc;
-	text-shadow: 0 0 2px #000;
+	color: #fff;
 }
 ul.CMenu li ul li a.dis {
-    color: #333333
+    color: #555;
 }
 ul.CMenu li ul li a.dis:hover {
     background-color: #eee;
-    color: #333333
+    color: #555;
 }
 div#VDivider {
     background: #444 none repeat scroll 0 0;
