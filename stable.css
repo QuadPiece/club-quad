@@ -131,6 +131,7 @@ div.stable-body table tbody tr.even:hover:nth-child(2n+1) td {
     border: 0px inset #1b1b1b;
     border-bottom: none;
     background: transparent;
+    border-radius: 25px
 }
 .stable-body tr.selected span.meter-value {
     color: #fff;
