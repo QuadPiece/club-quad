@@ -116,10 +116,10 @@ ul.CMenu li a:hover {
     background: #cfdeef url(./images/menus.png) no-repeat 0px 0px;
 }
 ul.CMenu li a.dis {
-    color: #333333
+    color: #555;
 }
 ul.CMenu li a.dis:hover {
-    color: #333333
+    color: #555;
 }
 ul.CMenu li hr {
 	background-color: #222;
@@ -147,8 +147,6 @@ ul.CMenu li a:hover {
 	background-color: #222;
 	color: #ccc;
 	font-family: Open Sans;
-	font-weight: 600;
-	text-shadow: 0 0 2px #000;
 }
 ul.CMenu li:hover ul li a {
     background-color: #111;
