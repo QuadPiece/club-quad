@@ -284,11 +284,6 @@ div#t div#chat {
 div#t div#chat:hover {
     background: transparent url(./images/toolbar.png) no-repeat -421px -30px
 }
-div#t a#mnu_go::before {
-    margin: 3px 0 0 0;
-    padding: 3px;
-    content: "GO";
-}
 #go {
     background: transparent !important;
     *margin: 3px 0 0 0;
@@ -997,5 +992,5 @@ ul.CMenu li:hover ul {
 
 /* SEARCH BAR ALIGNMENT FIX */
 #query, #exscategory {
-    margin-top: 0 !important;
+    margin-top: 3px !important;
 }
