@@ -335,7 +335,7 @@ input[type="text"], input[type="password"], input[type="file"], select {
 input[type="text"][disabled], input[type="password"][disabled], input[type="file"][disabled], select[disabled] {
     background: #212121 none repeat scroll 0 0;
     border: 1px solid #313131;
-    color: black;
+    color: #555;
 }
 input.Button {
     background: #222 none repeat scroll 0 0;
@@ -559,7 +559,7 @@ input.disabled {
     color: #222;
 }
 td.disabled, label.disabled, span.disabled, div.disabled {
-	color: #96281b;
+	color: #555;
 }
 legend {
     color: #888888
